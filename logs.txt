@@ -1,0 +1,42 @@
+commit 4c56c0b5b35c1aeb694c88228aa712bfc4ae6760
+Merge: 7c1ba95 8476737
+Author: Doncho Jakimovski <jakimovskidonce@gmail.com>
+Date:   Sat Apr 1 16:33:22 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 7c1ba9526a921132cec1db32ddb47fa7ad338af2
+Author: Doncho Jakimovski <jakimovskidonce@gmail.com>
+Date:   Sat Apr 1 16:20:17 2023 +0200
+
+    Resolving merge conflict
+
+commit 7004e3aed0a7012304a1a26832e4a02a7b7ae377 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Doncho Jakimovski <jakimovskidonce@gmail.com>
+Date:   Sat Apr 1 15:55:36 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 8476737fe077d5bdcf303703f2f8d0866320c073 (origin/bug2, bug2)
+Author: Doncho Jakimovski <jakimovskidonce@gmail.com>
+Date:   Sat Apr 1 15:49:24 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 0d7010944d219323803bb8b456a45c2fd6279292 (origin/bug1, bug1)
+Author: Doncho Jakimovski <jakimovskidonce@gmail.com>
+Date:   Sat Apr 1 15:41:46 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 62fa9ab39ad2302653c8bef4810c293f82ff08a0
+Author: Doncho Jakimovski <jakimovskidonce@gmail.com>
+Date:   Sat Apr 1 12:27:37 2023 +0200
+
+    Add java class
+
+commit e579fdca590469499b6a27bd0e205ecb02528d0b
+Author: Doncho Jakimovski <jakimovskidonce@gmail.com>
+Date:   Sat Apr 1 12:12:43 2023 +0200
+
+    Initial commit
